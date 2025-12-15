@@ -1,0 +1,48 @@
+
+                            #
+                             Данные MongoDB
+
+docker/mongo-data/
+mongo1_data/
+mongo2_data/
+mongo3_data/
+
+
+                            #
+                             Gradle
+
+build/
+.gradle/
+
+
+                            #
+                             IDE
+
+.idea/
+.idea/*
+*.iml
+.vscode/
+
+# Скомпилированные классы (Eclipse, IntelliJ)
+bin/
+
+
+                            #
+                             OS
+
+.DS_Store
+
+
+                            #
+                             ⚠️ ВАЖНО: Локальные секреты для разработки
+
+
+secret.properties
+
+
+                            #
+                             Логи
+
+logs/
+*.log
+
